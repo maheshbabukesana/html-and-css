@@ -1,0 +1,23 @@
+.main {
+	width: 100%;
+	background:white;
+	margin: 0 auto 0 auto;
+}
+
+.one {
+	width: 100;
+	min-height: 400px;
+	background-color: lightsalmon;
+}
+
+.two {
+	width: 100%;
+	background-color:lightyellow;
+	min-height: 400PX;
+}
+
+p1 {
+	font-size: 40px;
+	font-style: oblique;
+	
+}
